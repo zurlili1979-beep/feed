@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-05T23:37:15.625937</generation-date>
+  <generation-date>2026-11-06T00:33:50.671093</generation-date>
   <offer internal-id="1">
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/1</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8341000</value>
       <currency>RUB</currency>
@@ -61,6 +62,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/2</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -117,6 +119,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/3</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -173,6 +176,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/4</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -229,6 +233,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/5</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8341000</value>
       <currency>RUB</currency>
@@ -285,6 +290,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/6</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6048700</value>
       <currency>RUB</currency>
@@ -341,6 +347,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/7</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6048700</value>
       <currency>RUB</currency>
@@ -397,6 +404,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/8</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7592500</value>
       <currency>RUB</currency>
@@ -453,6 +461,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/9</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -509,6 +518,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/10</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -565,6 +575,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/11</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7612300</value>
       <currency>RUB</currency>
@@ -621,6 +632,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/12</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7612300</value>
       <currency>RUB</currency>
@@ -677,6 +689,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/13</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -733,6 +746,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/14</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7602400</value>
       <currency>RUB</currency>
@@ -789,6 +803,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/15</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6038600</value>
       <currency>RUB</currency>
@@ -845,6 +860,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/16</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6048700</value>
       <currency>RUB</currency>
@@ -901,6 +917,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/17</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7602400</value>
       <currency>RUB</currency>
@@ -957,6 +974,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/18</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7602400</value>
       <currency>RUB</currency>
@@ -1013,6 +1031,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/19</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -1069,6 +1088,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/20</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7602400</value>
       <currency>RUB</currency>
@@ -1125,6 +1145,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/21</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6079000</value>
       <currency>RUB</currency>
@@ -1181,6 +1202,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/22</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6048700</value>
       <currency>RUB</currency>
@@ -1237,6 +1259,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/23</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6048700</value>
       <currency>RUB</currency>
@@ -1293,6 +1316,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/24</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8322000</value>
       <currency>RUB</currency>
@@ -1349,6 +1373,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/25</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7602400</value>
       <currency>RUB</currency>
@@ -1405,6 +1430,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/26</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6058800</value>
       <currency>RUB</currency>
@@ -1461,6 +1487,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/27</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6048700</value>
       <currency>RUB</currency>
@@ -1517,6 +1544,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/28</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -1573,6 +1601,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/29</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>8350500</value>
       <currency>RUB</currency>
@@ -1629,6 +1658,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/30</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>7622200</value>
       <currency>RUB</currency>
@@ -1685,6 +1715,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/31</url>
+    <building-name>ЖК Акварель</building-name>
     <price>
       <value>6068900</value>
       <currency>RUB</currency>
@@ -1741,6 +1772,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/32</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6300000</value>
       <currency>RUB</currency>
@@ -1790,6 +1822,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/33</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6300000</value>
       <currency>RUB</currency>
@@ -1839,6 +1872,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/34</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -1888,6 +1922,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/35</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -1937,6 +1972,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/36</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -1986,6 +2022,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/37</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2035,6 +2072,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/38</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2084,6 +2122,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/39</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2133,6 +2172,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/40</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2182,6 +2222,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/41</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2231,6 +2272,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/42</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2280,6 +2322,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/43</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6350000</value>
       <currency>RUB</currency>
@@ -2329,6 +2372,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/44</url>
+    <building-name>ЖК Лето</building-name>
     <price>
       <value>6630000</value>
       <currency>RUB</currency>
@@ -2383,6 +2427,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/45</url>
+    <building-name>ЖК Лето</building-name>
     <price>
       <value>9384900</value>
       <currency>RUB</currency>
@@ -2437,6 +2482,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/46</url>
+    <building-name>ЖК Лето</building-name>
     <price>
       <value>11291400</value>
       <currency>RUB</currency>
@@ -2491,6 +2537,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/47</url>
+    <building-name>ЖК Лето</building-name>
     <price>
       <value>11279100</value>
       <currency>RUB</currency>
@@ -2545,6 +2592,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/48</url>
+    <building-name>ЖК Лето</building-name>
     <price>
       <value>11279100</value>
       <currency>RUB</currency>
@@ -2599,6 +2647,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/49</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>4946650</value>
       <currency>RUB</currency>
@@ -2668,6 +2717,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/50</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>4940000</value>
       <currency>RUB</currency>
@@ -2737,6 +2787,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/51</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5019040</value>
       <currency>RUB</currency>
@@ -2806,6 +2857,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/52</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5019040</value>
       <currency>RUB</currency>
@@ -2875,6 +2927,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/53</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5080000</value>
       <currency>RUB</currency>
@@ -2944,6 +2997,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/54</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5080000</value>
       <currency>RUB</currency>
@@ -3013,6 +3067,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/55</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5080000</value>
       <currency>RUB</currency>
@@ -3082,6 +3137,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/56</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5078750</value>
       <currency>RUB</currency>
@@ -3151,6 +3207,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/57</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5160010</value>
       <currency>RUB</currency>
@@ -3220,6 +3277,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/58</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5160010</value>
       <currency>RUB</currency>
@@ -3289,6 +3347,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/59</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5321250</value>
       <currency>RUB</currency>
@@ -3358,6 +3417,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/60</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5406390</value>
       <currency>RUB</currency>
@@ -3427,6 +3487,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/61</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5406390</value>
       <currency>RUB</currency>
@@ -3496,6 +3557,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/62</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5406390</value>
       <currency>RUB</currency>
@@ -3565,6 +3627,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/63</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5406390</value>
       <currency>RUB</currency>
@@ -3634,6 +3697,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/64</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5406390</value>
       <currency>RUB</currency>
@@ -3703,6 +3767,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/65</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5336250</value>
       <currency>RUB</currency>
@@ -3772,6 +3837,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/66</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5421630</value>
       <currency>RUB</currency>
@@ -3841,6 +3907,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/67</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5421630</value>
       <currency>RUB</currency>
@@ -3910,6 +3977,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/68</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5402500</value>
       <currency>RUB</currency>
@@ -3979,6 +4047,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/69</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5488940</value>
       <currency>RUB</currency>
@@ -4048,6 +4117,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/70</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5488940</value>
       <currency>RUB</currency>
@@ -4117,6 +4187,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/71</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5488940</value>
       <currency>RUB</currency>
@@ -4186,6 +4257,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/72</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5603750</value>
       <currency>RUB</currency>
@@ -4255,6 +4327,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/73</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5693410</value>
       <currency>RUB</currency>
@@ -4324,6 +4397,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/74</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5693410</value>
       <currency>RUB</currency>
@@ -4393,6 +4467,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/75</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>5693410</value>
       <currency>RUB</currency>
@@ -4462,6 +4537,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/76</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7027080</value>
       <currency>RUB</currency>
@@ -4531,6 +4607,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/77</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7083750</value>
       <currency>RUB</currency>
@@ -4600,6 +4677,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/78</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7083750</value>
       <currency>RUB</currency>
@@ -4669,6 +4747,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/79</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7083750</value>
       <currency>RUB</currency>
@@ -4738,6 +4817,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/80</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7343280</value>
       <currency>RUB</currency>
@@ -4807,6 +4887,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/81</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7402500</value>
       <currency>RUB</currency>
@@ -4876,6 +4957,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/82</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7402500</value>
       <currency>RUB</currency>
@@ -4945,6 +5027,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/83</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7402500</value>
       <currency>RUB</currency>
@@ -5014,6 +5097,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/84</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7390400</value>
       <currency>RUB</currency>
@@ -5083,6 +5167,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/85</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7450000</value>
       <currency>RUB</currency>
@@ -5152,6 +5237,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/86</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7485880</value>
       <currency>RUB</currency>
@@ -5221,6 +5307,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/87</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7546250</value>
       <currency>RUB</currency>
@@ -5290,6 +5377,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/88</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7546250</value>
       <currency>RUB</currency>
@@ -5359,6 +5447,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/89</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7871520</value>
       <currency>RUB</currency>
@@ -5428,6 +5517,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/90</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>7935000</value>
       <currency>RUB</currency>
@@ -5497,6 +5587,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/91</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>8203840</value>
       <currency>RUB</currency>
@@ -5566,6 +5657,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/92</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>8270000</value>
       <currency>RUB</currency>
@@ -5635,6 +5727,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/93</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>8270000</value>
       <currency>RUB</currency>
@@ -5704,6 +5797,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/94</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>8270000</value>
       <currency>RUB</currency>
@@ -5773,6 +5867,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/95</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>8270000</value>
       <currency>RUB</currency>
@@ -5842,6 +5937,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/96</url>
+    <building-name>ЖК Мята</building-name>
     <price>
       <value>8270000</value>
       <currency>RUB</currency>
@@ -5911,6 +6007,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/97</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5196100</value>
       <currency>RUB</currency>
@@ -5957,6 +6054,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/98</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5196100</value>
       <currency>RUB</currency>
@@ -6003,6 +6101,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/99</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5196100</value>
       <currency>RUB</currency>
@@ -6049,6 +6148,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/100</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5479500</value>
       <currency>RUB</currency>
@@ -6095,6 +6195,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/101</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6047600</value>
       <currency>RUB</currency>
@@ -6141,6 +6242,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/102</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8690500</value>
       <currency>RUB</currency>
@@ -6187,6 +6289,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/103</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7253050</value>
       <currency>RUB</currency>
@@ -6233,6 +6336,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/104</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7253050</value>
       <currency>RUB</currency>
@@ -6279,6 +6383,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/105</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7655100</value>
       <currency>RUB</currency>
@@ -6325,6 +6430,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/106</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8495000</value>
       <currency>RUB</currency>
@@ -6371,6 +6477,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/107</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8495000</value>
       <currency>RUB</currency>
@@ -6417,6 +6524,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/108</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8495000</value>
       <currency>RUB</currency>
@@ -6463,6 +6571,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/109</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8495000</value>
       <currency>RUB</currency>
@@ -6509,6 +6618,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/110</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8495000</value>
       <currency>RUB</currency>
@@ -6555,6 +6665,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/111</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8495000</value>
       <currency>RUB</currency>
@@ -6601,6 +6712,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/112</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8690500</value>
       <currency>RUB</currency>
@@ -6647,6 +6759,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/113</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>10455000</value>
       <currency>RUB</currency>
@@ -6693,6 +6806,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/114</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>10455000</value>
       <currency>RUB</currency>
@@ -6739,6 +6853,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/115</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>10455000</value>
       <currency>RUB</currency>
@@ -6785,6 +6900,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/116</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>10455000</value>
       <currency>RUB</currency>
@@ -6831,6 +6947,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/117</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>10455000</value>
       <currency>RUB</currency>
@@ -6877,6 +6994,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/118</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>13655250</value>
       <currency>RUB</currency>
@@ -6923,6 +7041,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/119</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>3997940</value>
       <currency>RUB</currency>
@@ -6973,6 +7092,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/120</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>3997940</value>
       <currency>RUB</currency>
@@ -7023,6 +7143,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/121</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4096250</value>
       <currency>RUB</currency>
@@ -7073,6 +7194,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/122</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4257500</value>
       <currency>RUB</currency>
@@ -7123,6 +7245,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/123</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4257500</value>
       <currency>RUB</currency>
@@ -7173,6 +7296,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/124</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>5062680</value>
       <currency>RUB</currency>
@@ -7223,6 +7347,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/125</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4939200</value>
       <currency>RUB</currency>
@@ -7273,6 +7398,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/126</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>5062680</value>
       <currency>RUB</currency>
@@ -7323,6 +7449,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/127</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>5062680</value>
       <currency>RUB</currency>
@@ -7373,6 +7500,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/128</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7641270</value>
       <currency>RUB</currency>
@@ -7423,6 +7551,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/129</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7837200</value>
       <currency>RUB</currency>
@@ -7473,6 +7602,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/130</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7837200</value>
       <currency>RUB</currency>
@@ -7523,6 +7653,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/131</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7953660</value>
       <currency>RUB</currency>
@@ -7573,6 +7704,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/132</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8021520</value>
       <currency>RUB</currency>
@@ -7623,6 +7755,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/133</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8021520</value>
       <currency>RUB</currency>
@@ -7673,6 +7806,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/134</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7953660</value>
       <currency>RUB</currency>
@@ -7723,6 +7857,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/135</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8227200</value>
       <currency>RUB</currency>
@@ -7773,6 +7908,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/136</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8227200</value>
       <currency>RUB</currency>
@@ -7823,6 +7959,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/137</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>9078030</value>
       <currency>RUB</currency>
@@ -7873,6 +8010,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/138</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>9078030</value>
       <currency>RUB</currency>
@@ -7923,6 +8061,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/139</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>9310800</value>
       <currency>RUB</currency>
@@ -7973,6 +8112,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/140</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>9310800</value>
       <currency>RUB</currency>
@@ -8023,6 +8163,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/141</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4798230</value>
       <currency>RUB</currency>
@@ -8073,6 +8214,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/142</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4798230</value>
       <currency>RUB</currency>
@@ -8123,6 +8265,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/143</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>4798230</value>
       <currency>RUB</currency>
@@ -8173,6 +8316,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/144</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6216560</value>
       <currency>RUB</currency>
@@ -8223,6 +8367,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/145</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6593840</value>
       <currency>RUB</currency>
@@ -8273,6 +8418,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/146</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6761480</value>
       <currency>RUB</currency>
@@ -8323,6 +8469,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/147</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6761480</value>
       <currency>RUB</currency>
@@ -8373,6 +8520,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/148</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6798990</value>
       <currency>RUB</currency>
@@ -8423,6 +8571,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/149</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6798990</value>
       <currency>RUB</currency>
@@ -8473,6 +8622,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/150</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>6798990</value>
       <currency>RUB</currency>
@@ -8523,6 +8673,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/151</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7925580</value>
       <currency>RUB</currency>
@@ -8573,6 +8724,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/152</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>7925580</value>
       <currency>RUB</currency>
@@ -8623,6 +8775,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/153</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8128800</value>
       <currency>RUB</currency>
@@ -8673,6 +8826,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/154</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8128800</value>
       <currency>RUB</currency>
@@ -8723,6 +8877,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/155</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8501220</value>
       <currency>RUB</currency>
@@ -8773,6 +8928,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/156</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8719200</value>
       <currency>RUB</currency>
@@ -8823,6 +8979,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/157</url>
+    <building-name>ЖК Островский</building-name>
     <price>
       <value>8719200</value>
       <currency>RUB</currency>
@@ -8873,6 +9030,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/158</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7128000</value>
       <currency>RUB</currency>
@@ -8919,6 +9077,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/159</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7354600</value>
       <currency>RUB</currency>
@@ -8965,6 +9124,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/160</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7458000</value>
       <currency>RUB</currency>
@@ -9011,6 +9171,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/161</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7491000</value>
       <currency>RUB</currency>
@@ -9057,6 +9218,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/162</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7524000</value>
       <currency>RUB</currency>
@@ -9103,6 +9265,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/163</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7524000</value>
       <currency>RUB</currency>
@@ -9149,6 +9312,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/164</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7546000</value>
       <currency>RUB</currency>
@@ -9195,6 +9359,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/165</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7594400</value>
       <currency>RUB</currency>
@@ -9241,6 +9406,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/166</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7715400</value>
       <currency>RUB</currency>
@@ -9287,6 +9453,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/167</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7825400</value>
       <currency>RUB</currency>
@@ -9333,6 +9500,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/168</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7836400</value>
       <currency>RUB</currency>
@@ -9379,6 +9547,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/169</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>8925000</value>
       <currency>RUB</currency>
@@ -9425,6 +9594,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/170</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9695700</value>
       <currency>RUB</currency>
@@ -9471,6 +9641,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/171</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9716700</value>
       <currency>RUB</currency>
@@ -9517,6 +9688,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/172</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9716700</value>
       <currency>RUB</currency>
@@ -9563,6 +9735,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/173</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9748200</value>
       <currency>RUB</currency>
@@ -9609,6 +9782,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/174</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9748200</value>
       <currency>RUB</currency>
@@ -9655,6 +9829,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/175</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9748200</value>
       <currency>RUB</currency>
@@ -9701,6 +9876,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/176</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>9779700</value>
       <currency>RUB</currency>
@@ -9747,6 +9923,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/177</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>11377800</value>
       <currency>RUB</currency>
@@ -9793,6 +9970,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/178</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>12316500</value>
       <currency>RUB</currency>
@@ -9839,6 +10017,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/179</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>11662000</value>
       <currency>RUB</currency>
@@ -9885,6 +10064,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/180</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>3853850</value>
       <currency>RUB</currency>
@@ -9931,6 +10111,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/181</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>3853850</value>
       <currency>RUB</currency>
@@ -9977,6 +10158,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/182</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>3853850</value>
       <currency>RUB</currency>
@@ -10023,6 +10205,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/183</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10069,6 +10252,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/184</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10115,6 +10299,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/185</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10161,6 +10346,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/186</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10207,6 +10393,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/187</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10253,6 +10440,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/188</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10299,6 +10487,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/189</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5200300</value>
       <currency>RUB</currency>
@@ -10345,6 +10534,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/190</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10391,6 +10581,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/191</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10437,6 +10628,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/192</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10483,6 +10675,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/193</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10529,6 +10722,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/194</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10575,6 +10769,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/195</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10621,6 +10816,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/196</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10667,6 +10863,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/197</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10713,6 +10910,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/198</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7148700</value>
       <currency>RUB</currency>
@@ -10759,6 +10957,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/199</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>4998000</value>
       <currency>RUB</currency>
@@ -10805,6 +11004,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/200</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>4998000</value>
       <currency>RUB</currency>
@@ -10851,6 +11051,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/201</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>4998000</value>
       <currency>RUB</currency>
@@ -10897,6 +11098,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/202</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>4998000</value>
       <currency>RUB</currency>
@@ -10943,6 +11145,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/203</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>4998000</value>
       <currency>RUB</currency>
@@ -10989,6 +11192,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/204</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11035,6 +11239,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/205</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11081,6 +11286,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/206</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11127,6 +11333,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/207</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11173,6 +11380,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/208</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11219,6 +11427,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/209</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11265,6 +11474,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/210</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11311,6 +11521,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/211</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11357,6 +11568,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/212</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>7356960</value>
       <currency>RUB</currency>
@@ -11403,6 +11615,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/213</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11449,6 +11662,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/214</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11495,6 +11709,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/215</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11541,6 +11756,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/216</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11587,6 +11803,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/217</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11633,6 +11850,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/218</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11679,6 +11897,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/219</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11725,6 +11944,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/220</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11771,6 +11991,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/221</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6732180</value>
       <currency>RUB</currency>
@@ -11817,6 +12038,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/222</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -11863,6 +12085,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/223</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -11909,6 +12132,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/224</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -11955,6 +12179,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/225</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -12001,6 +12226,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/226</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -12047,6 +12273,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/227</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -12093,6 +12320,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/228</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -12139,6 +12367,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/229</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -12185,6 +12414,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/230</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12231,6 +12461,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/231</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12277,6 +12508,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/232</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12323,6 +12555,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/233</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12369,6 +12602,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/234</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12415,6 +12649,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/235</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12461,6 +12696,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/236</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12507,6 +12743,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/237</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12553,6 +12790,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/238</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -12599,6 +12837,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/239</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12645,6 +12884,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/240</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12691,6 +12931,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/241</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12737,6 +12978,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/242</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12783,6 +13025,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/243</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12829,6 +13072,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/244</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12875,6 +13119,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/245</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>6733350</value>
       <currency>RUB</currency>
@@ -12921,6 +13166,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/246</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -12967,6 +13213,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/247</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13013,6 +13260,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/248</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13059,6 +13307,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/249</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13105,6 +13354,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/250</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13151,6 +13401,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/251</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13197,6 +13448,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/252</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13243,6 +13495,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/253</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5556110</value>
       <currency>RUB</currency>
@@ -13289,6 +13542,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/254</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -13335,6 +13589,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/255</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -13381,6 +13636,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/256</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -13427,6 +13683,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/257</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -13473,6 +13730,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/258</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -13519,6 +13777,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/259</url>
+    <building-name>ЖК Недвижимость</building-name>
     <price>
       <value>5022990</value>
       <currency>RUB</currency>
@@ -13565,6 +13824,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/260</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>9469200</value>
       <currency>RUB</currency>
@@ -13607,6 +13867,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/261</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>9524400</value>
       <currency>RUB</currency>
@@ -13649,6 +13910,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/262</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>9524400</value>
       <currency>RUB</currency>
@@ -13691,6 +13953,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/263</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>9565800</value>
       <currency>RUB</currency>
@@ -13733,6 +13996,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/264</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>9579600</value>
       <currency>RUB</currency>
@@ -13775,6 +14039,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/265</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>9579600</value>
       <currency>RUB</currency>
@@ -13817,6 +14082,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/266</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>10021200</value>
       <currency>RUB</currency>
@@ -13859,6 +14125,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/267</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>10021200</value>
       <currency>RUB</currency>
@@ -13901,6 +14168,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/268</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>10035000</value>
       <currency>RUB</currency>
@@ -13943,6 +14211,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/269</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>10035000</value>
       <currency>RUB</currency>
@@ -13985,6 +14254,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/270</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>13002000</value>
       <currency>RUB</currency>
@@ -14027,6 +14297,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/271</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>13002000</value>
       <currency>RUB</currency>
@@ -14069,6 +14340,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/272</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>13002000</value>
       <currency>RUB</currency>
@@ -14111,6 +14383,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/273</url>
+    <building-name>ЖК Розмарин</building-name>
     <price>
       <value>13002000</value>
       <currency>RUB</currency>
@@ -14153,6 +14426,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/274</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>6017800</value>
       <currency>RUB</currency>
@@ -14206,6 +14480,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/275</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>6050000</value>
       <currency>RUB</currency>
@@ -14259,6 +14534,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/276</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>6184400</value>
       <currency>RUB</currency>
@@ -14312,6 +14588,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/277</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>6230600</value>
       <currency>RUB</currency>
@@ -14365,6 +14642,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/278</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>7878100</value>
       <currency>RUB</currency>
@@ -14418,6 +14696,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/279</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8344690</value>
       <currency>RUB</currency>
@@ -14471,6 +14750,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/280</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8567100</value>
       <currency>RUB</currency>
@@ -14524,6 +14804,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/281</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8479310</value>
       <currency>RUB</currency>
@@ -14577,6 +14858,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/282</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8474800</value>
       <currency>RUB</currency>
@@ -14630,6 +14912,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/283</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8474800</value>
       <currency>RUB</currency>
@@ -14683,6 +14966,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/284</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8474800</value>
       <currency>RUB</currency>
@@ -14736,6 +15020,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/285</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8309700</value>
       <currency>RUB</currency>
@@ -14789,6 +15074,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/286</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8309700</value>
       <currency>RUB</currency>
@@ -14842,6 +15128,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/287</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8309700</value>
       <currency>RUB</currency>
@@ -14895,6 +15182,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/288</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8529400</value>
       <currency>RUB</currency>
@@ -14948,6 +15236,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/289</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8529400</value>
       <currency>RUB</currency>
@@ -15001,6 +15290,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/290</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8333100</value>
       <currency>RUB</currency>
@@ -15054,6 +15344,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/291</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8424100</value>
       <currency>RUB</currency>
@@ -15107,6 +15398,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/292</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8647700</value>
       <currency>RUB</currency>
@@ -15160,6 +15452,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/293</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>8974610</value>
       <currency>RUB</currency>
@@ -15213,6 +15506,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/294</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>9068590</value>
       <currency>RUB</currency>
@@ -15266,6 +15560,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/295</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>9330200</value>
       <currency>RUB</currency>
@@ -15319,6 +15614,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/296</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>9236230</value>
       <currency>RUB</currency>
@@ -15372,6 +15668,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/297</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11926300</value>
       <currency>RUB</currency>
@@ -15425,6 +15722,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/298</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11926300</value>
       <currency>RUB</currency>
@@ -15478,6 +15776,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/299</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11926300</value>
       <currency>RUB</currency>
@@ -15531,6 +15830,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/300</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11944500</value>
       <currency>RUB</currency>
@@ -15584,6 +15884,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/301</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>12262350</value>
       <currency>RUB</currency>
@@ -15637,6 +15938,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/302</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>12262350</value>
       <currency>RUB</currency>
@@ -15690,6 +15992,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/303</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>12294750</value>
       <currency>RUB</currency>
@@ -15743,6 +16046,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/304</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11597500</value>
       <currency>RUB</currency>
@@ -15796,6 +16100,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/305</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11546250</value>
       <currency>RUB</currency>
@@ -15849,6 +16154,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/306</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11806700</value>
       <currency>RUB</currency>
@@ -15902,6 +16208,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/307</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11806700</value>
       <currency>RUB</currency>
@@ -15955,6 +16262,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/308</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>12144900</value>
       <currency>RUB</currency>
@@ -16008,6 +16316,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/309</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>12144900</value>
       <currency>RUB</currency>
@@ -16061,6 +16370,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/310</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11895100</value>
       <currency>RUB</currency>
@@ -16114,6 +16424,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/311</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>11438750</value>
       <currency>RUB</currency>
@@ -16167,6 +16478,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/312</url>
+    <building-name>ЖК Садовая 20</building-name>
     <price>
       <value>12252900</value>
       <currency>RUB</currency>
@@ -16220,6 +16532,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/313</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>6103100</value>
       <currency>RUB</currency>
@@ -16274,6 +16587,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/314</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>6103100</value>
       <currency>RUB</currency>
@@ -16328,6 +16642,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/315</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>6854400</value>
       <currency>RUB</currency>
@@ -16382,6 +16697,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/316</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>6854400</value>
       <currency>RUB</currency>
@@ -16436,6 +16752,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/317</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>6854400</value>
       <currency>RUB</currency>
@@ -16490,6 +16807,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/318</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>6854400</value>
       <currency>RUB</currency>
@@ -16544,6 +16862,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/319</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>7864380</value>
       <currency>RUB</currency>
@@ -16598,6 +16917,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/320</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>7864380</value>
       <currency>RUB</currency>
@@ -16652,6 +16972,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/321</url>
+    <building-name>ЖК Семейный</building-name>
     <price>
       <value>7864380</value>
       <currency>RUB</currency>
@@ -16706,6 +17027,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/322</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4561200</value>
       <currency>RUB</currency>
@@ -16767,6 +17089,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/323</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4585200</value>
       <currency>RUB</currency>
@@ -16828,6 +17151,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/324</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4585200</value>
       <currency>RUB</currency>
@@ -16889,6 +17213,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/325</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4585200</value>
       <currency>RUB</currency>
@@ -16950,6 +17275,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/326</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4585200</value>
       <currency>RUB</currency>
@@ -17011,6 +17337,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/327</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17072,6 +17399,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/328</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17133,6 +17461,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/329</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17194,6 +17523,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/330</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17255,6 +17585,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/331</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17316,6 +17647,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/332</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17377,6 +17709,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/333</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17438,6 +17771,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/334</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17499,6 +17833,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/335</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4681200</value>
       <currency>RUB</currency>
@@ -17560,6 +17895,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/336</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17621,6 +17957,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/337</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17682,6 +18019,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/338</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17743,6 +18081,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/339</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17804,6 +18143,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/340</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17865,6 +18205,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/341</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17926,6 +18267,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/342</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -17987,6 +18329,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/343</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -18048,6 +18391,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/344</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4705200</value>
       <currency>RUB</currency>
@@ -18109,6 +18453,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/345</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>4838400</value>
       <currency>RUB</currency>
@@ -18170,6 +18515,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/346</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5019600</value>
       <currency>RUB</currency>
@@ -18231,6 +18577,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/347</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5019600</value>
       <currency>RUB</currency>
@@ -18292,6 +18639,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/348</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5019600</value>
       <currency>RUB</currency>
@@ -18353,6 +18701,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/349</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5019600</value>
       <currency>RUB</currency>
@@ -18414,6 +18763,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/350</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18475,6 +18825,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/351</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18536,6 +18887,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/352</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18597,6 +18949,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/353</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18658,6 +19011,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/354</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18719,6 +19073,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/355</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18780,6 +19135,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/356</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18841,6 +19197,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/357</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18902,6 +19259,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/358</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5151600</value>
       <currency>RUB</currency>
@@ -18963,6 +19321,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/359</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5212800</value>
       <currency>RUB</currency>
@@ -19024,6 +19383,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/360</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5212800</value>
       <currency>RUB</currency>
@@ -19085,6 +19445,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/361</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5212800</value>
       <currency>RUB</currency>
@@ -19146,6 +19507,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/362</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5212800</value>
       <currency>RUB</currency>
@@ -19207,6 +19569,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/363</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5212800</value>
       <currency>RUB</currency>
@@ -19268,6 +19631,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/364</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19329,6 +19693,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/365</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19390,6 +19755,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/366</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19451,6 +19817,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/367</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19512,6 +19879,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/368</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19573,6 +19941,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/369</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19634,6 +20003,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/370</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19695,6 +20065,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/371</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19756,6 +20127,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/372</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>5301600</value>
       <currency>RUB</currency>
@@ -19817,6 +20189,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/373</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6438850</value>
       <currency>RUB</currency>
@@ -19878,6 +20251,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/374</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6438850</value>
       <currency>RUB</currency>
@@ -19939,6 +20313,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/375</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6438850</value>
       <currency>RUB</currency>
@@ -20000,6 +20375,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/376</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6438850</value>
       <currency>RUB</currency>
@@ -20061,6 +20437,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/377</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20122,6 +20499,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/378</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20183,6 +20561,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/379</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20244,6 +20623,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/380</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20305,6 +20685,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/381</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20366,6 +20747,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/382</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20427,6 +20809,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/383</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20488,6 +20871,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/384</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20549,6 +20933,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/385</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6580300</value>
       <currency>RUB</currency>
@@ -20610,6 +20995,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/386</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6794200</value>
       <currency>RUB</currency>
@@ -20671,6 +21057,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/387</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6794200</value>
       <currency>RUB</currency>
@@ -20732,6 +21119,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/388</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6794200</value>
       <currency>RUB</currency>
@@ -20793,6 +21181,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/389</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>6794200</value>
       <currency>RUB</currency>
@@ -20854,6 +21243,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/390</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -20915,6 +21305,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/391</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -20976,6 +21367,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/392</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21037,6 +21429,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/393</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21098,6 +21491,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/394</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21159,6 +21553,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/395</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21220,6 +21615,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/396</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21281,6 +21677,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/397</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21342,6 +21739,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/398</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7019600</value>
       <currency>RUB</currency>
@@ -21403,6 +21801,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/399</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7081125</value>
       <currency>RUB</currency>
@@ -21464,6 +21863,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/400</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7081125</value>
       <currency>RUB</currency>
@@ -21525,6 +21925,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/401</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7081125</value>
       <currency>RUB</currency>
@@ -21586,6 +21987,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/402</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7081125</value>
       <currency>RUB</currency>
@@ -21647,6 +22049,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/403</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7081125</value>
       <currency>RUB</currency>
@@ -21708,6 +22111,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/404</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7109300</value>
       <currency>RUB</currency>
@@ -21769,6 +22173,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/405</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7109300</value>
       <currency>RUB</currency>
@@ -21830,6 +22235,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/406</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7109300</value>
       <currency>RUB</currency>
@@ -21891,6 +22297,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/407</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7109300</value>
       <currency>RUB</currency>
@@ -21952,6 +22359,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/408</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22013,6 +22421,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/409</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22074,6 +22483,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/410</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22135,6 +22545,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/411</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22196,6 +22607,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/412</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22257,6 +22669,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/413</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22318,6 +22731,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/414</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22379,6 +22793,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/415</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22440,6 +22855,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/416</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7312275</value>
       <currency>RUB</currency>
@@ -22501,6 +22917,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/417</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22562,6 +22979,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/418</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22623,6 +23041,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/419</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22684,6 +23103,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/420</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22745,6 +23165,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/421</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22806,6 +23227,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/422</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22867,6 +23289,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/423</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22928,6 +23351,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/424</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -22989,6 +23413,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/425</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>7340450</value>
       <currency>RUB</currency>
@@ -23050,6 +23475,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/426</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9395500</value>
       <currency>RUB</currency>
@@ -23111,6 +23537,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/427</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9395500</value>
       <currency>RUB</currency>
@@ -23172,6 +23599,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/428</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9395500</value>
       <currency>RUB</currency>
@@ -23233,6 +23661,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/429</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9395500</value>
       <currency>RUB</currency>
@@ -23294,6 +23723,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/430</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23355,6 +23785,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/431</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23416,6 +23847,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/432</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23477,6 +23909,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/433</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23538,6 +23971,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/434</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23599,6 +24033,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/435</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23660,6 +24095,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/436</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23721,6 +24157,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/437</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23782,6 +24219,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/438</url>
+    <building-name>ЖК Севастопольский</building-name>
     <price>
       <value>9685300</value>
       <currency>RUB</currency>
@@ -23843,6 +24281,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/439</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -23913,6 +24352,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/440</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -23983,6 +24423,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/441</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24053,6 +24494,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/442</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24123,6 +24565,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/443</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24193,6 +24636,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/444</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24263,6 +24707,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/445</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24333,6 +24778,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/446</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3419660</value>
       <currency>RUB</currency>
@@ -24403,6 +24849,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/447</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24473,6 +24920,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/448</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24543,6 +24991,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/449</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24613,6 +25062,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/450</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24683,6 +25133,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/451</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24753,6 +25204,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/452</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24823,6 +25275,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/453</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>3447690</value>
       <currency>RUB</currency>
@@ -24893,6 +25346,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/454</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4392360</value>
       <currency>RUB</currency>
@@ -24963,6 +25417,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/455</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4917500</value>
       <currency>RUB</currency>
@@ -25033,6 +25488,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/456</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4917500</value>
       <currency>RUB</currency>
@@ -25103,6 +25559,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/457</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4799480</value>
       <currency>RUB</currency>
@@ -25173,6 +25630,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/458</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4809600</value>
       <currency>RUB</currency>
@@ -25243,6 +25701,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/459</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4889760</value>
       <currency>RUB</currency>
@@ -25313,6 +25772,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/460</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4889760</value>
       <currency>RUB</currency>
@@ -25383,6 +25843,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/461</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5010000</value>
       <currency>RUB</currency>
@@ -25453,6 +25914,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/462</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5010000</value>
       <currency>RUB</currency>
@@ -25523,6 +25985,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/463</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5010000</value>
       <currency>RUB</currency>
@@ -25593,6 +26056,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/464</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>4889760</value>
       <currency>RUB</currency>
@@ -25663,6 +26127,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/465</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5026800</value>
       <currency>RUB</currency>
@@ -25733,6 +26198,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/466</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5110580</value>
       <currency>RUB</currency>
@@ -25803,6 +26269,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/467</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5110580</value>
       <currency>RUB</currency>
@@ -25873,6 +26340,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/468</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5236250</value>
       <currency>RUB</currency>
@@ -25943,6 +26411,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/469</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5236250</value>
       <currency>RUB</currency>
@@ -26013,6 +26482,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/470</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5236250</value>
       <currency>RUB</currency>
@@ -26083,6 +26553,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/471</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>5110580</value>
       <currency>RUB</currency>
@@ -26153,6 +26624,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/472</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7517730</value>
       <currency>RUB</currency>
@@ -26223,6 +26695,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/473</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7579860</value>
       <currency>RUB</currency>
@@ -26293,6 +26766,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/474</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7641990</value>
       <currency>RUB</currency>
@@ -26363,6 +26837,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/475</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7641990</value>
       <currency>RUB</currency>
@@ -26433,6 +26908,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/476</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7579860</value>
       <currency>RUB</currency>
@@ -26503,6 +26979,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/477</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7494740</value>
       <currency>RUB</currency>
@@ -26573,6 +27050,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/478</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7556680</value>
       <currency>RUB</currency>
@@ -26643,6 +27121,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/479</url>
+    <building-name>ЖК Урбан</building-name>
     <price>
       <value>7556680</value>
       <currency>RUB</currency>
@@ -26713,6 +27192,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/480</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3640900</value>
       <currency>RUB</currency>
@@ -26765,6 +27245,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/481</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3705300</value>
       <currency>RUB</currency>
@@ -26817,6 +27298,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/482</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3705300</value>
       <currency>RUB</currency>
@@ -26869,6 +27351,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/483</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3705300</value>
       <currency>RUB</currency>
@@ -26921,6 +27404,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/484</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3822600</value>
       <currency>RUB</currency>
@@ -26973,6 +27457,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/485</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3822600</value>
       <currency>RUB</currency>
@@ -27025,6 +27510,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/486</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3936450</value>
       <currency>RUB</currency>
@@ -27077,6 +27563,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/487</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3936450</value>
       <currency>RUB</currency>
@@ -27129,6 +27616,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/488</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3936450</value>
       <currency>RUB</currency>
@@ -27181,6 +27669,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/489</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3936450</value>
       <currency>RUB</currency>
@@ -27233,6 +27722,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/490</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>3936450</value>
       <currency>RUB</currency>
@@ -27285,6 +27775,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/491</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>4348890</value>
       <currency>RUB</currency>
@@ -27337,6 +27828,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/492</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>5085920</value>
       <currency>RUB</currency>
@@ -27389,6 +27881,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/493</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>5167680</value>
       <currency>RUB</currency>
@@ -27441,6 +27934,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/494</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>5167680</value>
       <currency>RUB</currency>
@@ -27493,6 +27987,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/495</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>5167680</value>
       <currency>RUB</currency>
@@ -27545,6 +28040,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/496</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>5167680</value>
       <currency>RUB</currency>
@@ -27597,6 +28093,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/497</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>4620700</value>
       <currency>RUB</currency>
@@ -27649,6 +28146,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/498</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>4841500</value>
       <currency>RUB</currency>
@@ -27701,6 +28199,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/499</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>4841500</value>
       <currency>RUB</currency>
@@ -27753,6 +28252,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/500</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>4841500</value>
       <currency>RUB</currency>
@@ -27805,6 +28305,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/501</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>4841500</value>
       <currency>RUB</currency>
@@ -27857,6 +28358,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/502</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7001500</value>
       <currency>RUB</currency>
@@ -27909,6 +28411,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/503</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7001500</value>
       <currency>RUB</currency>
@@ -27961,6 +28464,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/504</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7225900</value>
       <currency>RUB</currency>
@@ -28013,6 +28517,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/505</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7225900</value>
       <currency>RUB</currency>
@@ -28065,6 +28570,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/506</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7225900</value>
       <currency>RUB</currency>
@@ -28117,6 +28623,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/507</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7225900</value>
       <currency>RUB</currency>
@@ -28169,6 +28676,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/508</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7225900</value>
       <currency>RUB</currency>
@@ -28221,6 +28729,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/509</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7686800</value>
       <currency>RUB</currency>
@@ -28273,6 +28782,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/510</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7827600</value>
       <currency>RUB</currency>
@@ -28325,6 +28835,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/511</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7827600</value>
       <currency>RUB</currency>
@@ -28377,6 +28888,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/512</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7827600</value>
       <currency>RUB</currency>
@@ -28429,6 +28941,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/513</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7827600</value>
       <currency>RUB</currency>
@@ -28481,6 +28994,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/514</url>
+    <building-name>ЖК Вейсэ</building-name>
     <price>
       <value>7827600</value>
       <currency>RUB</currency>
@@ -28533,6 +29047,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/515</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6486700</value>
       <currency>RUB</currency>
@@ -28579,6 +29094,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/516</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6564800</value>
       <currency>RUB</currency>
@@ -28625,6 +29141,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/517</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6564800</value>
       <currency>RUB</currency>
@@ -28671,6 +29188,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/518</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6564800</value>
       <currency>RUB</currency>
@@ -28717,6 +29235,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/519</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -28763,6 +29282,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/520</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -28809,6 +29329,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/521</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -28855,6 +29376,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/522</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -28901,6 +29423,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/523</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -28947,6 +29470,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/524</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -28993,6 +29517,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/525</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6825500</value>
       <currency>RUB</currency>
@@ -29039,6 +29564,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/526</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>6949600</value>
       <currency>RUB</currency>
@@ -29085,6 +29611,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/527</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>7355700</value>
       <currency>RUB</currency>
@@ -29131,6 +29658,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/528</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>7355700</value>
       <currency>RUB</currency>
@@ -29177,6 +29705,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/529</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>7355700</value>
       <currency>RUB</currency>
@@ -29223,6 +29752,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/530</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>7488800</value>
       <currency>RUB</currency>
@@ -29269,6 +29799,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/531</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>7488800</value>
       <currency>RUB</currency>
@@ -29315,6 +29846,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/532</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9357700</value>
       <currency>RUB</currency>
@@ -29361,6 +29893,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/533</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9357700</value>
       <currency>RUB</currency>
@@ -29407,6 +29940,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/534</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9357700</value>
       <currency>RUB</currency>
@@ -29453,6 +29987,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/535</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9434700</value>
       <currency>RUB</currency>
@@ -29499,6 +30034,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/536</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9434700</value>
       <currency>RUB</currency>
@@ -29545,6 +30081,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/537</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9434700</value>
       <currency>RUB</currency>
@@ -29591,6 +30128,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/538</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9434700</value>
       <currency>RUB</currency>
@@ -29637,6 +30175,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/539</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9606240</value>
       <currency>RUB</currency>
@@ -29683,6 +30222,7 @@ IT-ипотека
     <type>продажа</type>
     <category>квартира</category>
     <url>https://новостройки-саранск.рф/object/540</url>
+    <building-name>ЖК Заречье</building-name>
     <price>
       <value>9568900</value>
       <currency>RUB</currency>
