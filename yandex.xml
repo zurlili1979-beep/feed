@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-11-05T12:00:00+03:00</generation-date>
+
+  <offer internal-id="101">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/101</url>
+    <price><value>7582600</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Косарева, 15А</address></location>
+    <rooms>2</rooms>
+    <area><value>76.4</value></area>
+    <floor>2</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Акварель. Дом сдан. Квартира с черновой отделкой.</description>
+    <image>https://macroserver.ru/estate/files/get/3450614/6810237/Qx63EMcRx4b-jXwxNzc2MDc4MDAwfGIzZmY4/planirovka_k2-73_01-1-10-76.4.jpg</image>
+  </offer>
+
+  <offer internal-id="102">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/102</url>
+    <price><value>8341000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Косарева, 15А</address></location>
+    <rooms>3</rooms>
+    <area><value>87.6</value></area>
+    <floor>2</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Акварель. Дом сдан. Квартира с черновой отделкой.</description>
+    <image>https://macroserver.ru/estate/files/get/3450614/6810244/Qx63EMcRx4H9jXwxNzc2MDc4MDAwfGNiMGRi/planirovka_k3-84_46-1-11-87.6.jpg</image>
+  </offer>
+
+  <offer internal-id="201">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/201</url>
+    <price><value>5529218</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Большевистская, 124А</address></location>
+    <rooms>1</rooms>
+    <area><value>43.95</value></area>
+    <floor>4</floor>
+    <floors-total>10</floors-total>
+    <description>Квартира в ЖК Арта. Семейная и IT-ипотека.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/6767081/4051155/Jc16WdOi9UVH7nwxNzc3NjYyMDAwfDg3NWQ3/planirovka_1k-4395-2-43.95.png</image>
+  </offer>
+
+  <offer internal-id="301">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/301</url>
+    <price><value>3640900</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Рузаевская улица</address></location>
+    <rooms>1</rooms>
+    <area><value>31.66</value></area>
+    <floor>2</floor>
+    <floors-total>14</floors-total>
+    <description>ЖК Вейсэ. Кирпичный дом, предчистовая отделка.</description>
+    <image>https://ooossi.ru/assets-riw/images/apartments/Group%2067.jpg</image>
+  </offer>
+
+  <offer internal-id="401">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/401</url>
+    <price><value>3941880</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Лесная стр. 6</address></location>
+    <rooms>1</rooms>
+    <area><value>27.27</value></area>
+    <floor>2</floor>
+    <floors-total>18</floors-total>
+    <description>Квартира в ЖК Вера. Предчистовая отделка.</description>
+    <image>https://macroserver.ru/estate/files/get/10706674/7107447/JXS_J8P9e1b0H3wxNzkzNjg5MjAwfDVjNjdk/planirovka_k1-27_27-1-27.27.jpg</image>
+  </offer>
+
+  <offer internal-id="501">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/501</url>
+    <price><value>7073000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Мордовская, д. 35, корп. 200А</address></location>
+    <rooms>2</rooms>
+    <area><value>64.3</value></area>
+    <floor>3</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Домашний. Новый кирпичный дом. Дом сдан.</description>
+    <image>https://img.dmclk.ru/s1920x1080q80/vitrina/6e/ee/6eeef6caba7f15c3323cebaffe275d20017bdc82.webp</image>
+  </offer>
+
+  <offer internal-id="601">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/601</url>
+    <price><value>4878900</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, жилой район Химмаш, ЖК Заречье</address></location>
+    <rooms>1</rooms>
+    <area><value>41.7</value></area>
+    <floor>5</floor>
+    <floors-total>16</floors-total>
+    <description>ЖК Заречье. Предчистовая отделка.</description>
+    <image>https://ooossi.ru/assets-riw/images/apartments/PL%201%20-%20kv%2013,21,29,37.jpg</image>
+  </offer>
+
+  <offer internal-id="701">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/701</url>
+    <price><value>6292000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Республиканская, 38</address></location>
+    <rooms>1</rooms>
+    <area><value>48.4</value></area>
+    <floor>10</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Лето. Дом комфорт-класса. Дом сдан.</description>
+    <image>https://img.dmclk.ru/s1920x1080q80/vitrina/6a/be/6abe0c7ac5dad238d68555eb46fadd18904d43ca_DS.webp</image>
+  </offer>
+
+  <offer internal-id="801">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/801</url>
+    <price><value>5515800</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, пр-кт Ленина, д. 28Б</address></location>
+    <rooms>1</rooms>
+    <area><value>38.04</value></area>
+    <floor>3</floor>
+    <floors-total>15</floors-total>
+    <description>Квартира в ЖК МОН. Семейная и IT-ипотека.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/6849130/4073390/_Ria7AKR8zbRknwxNzc3NjYyMDAwfGEzZTg5/planirovka_k1-38_04-2-38.04.png</image>
+  </offer>
+
+  <offer internal-id="901">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/901</url>
+    <price><value>4868750</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Фурманова, 35А</address></location>
+    <rooms>1</rooms>
+    <area><value>38.95</value></area>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <description>ЖК Мята. Сдача: II квартал 2028 года.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/7357318/4243943/gKohPL_V8HYa7nwxNzg2MDgyNDAwfGE2NTg3/planirovka_k1-38_95-1-38.95.png</image>
+  </offer>
+
+  <offer internal-id="1001">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1001</url>
+    <price><value>5196100</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Гагарина, 36</address></location>
+    <rooms>1</rooms>
+    <area><value>39.97</value></area>
+    <floor>3</floor>
+    <floors-total>10</floors-total>
+    <description>Дом на Коммунистической. Срок сдачи: IV квартал 2026 года.</description>
+  </offer>
+
+  <offer internal-id="1101">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1101</url>
+    <price><value>3805180</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Н. Островского, 21</address></location>
+    <rooms>1</rooms>
+    <area><value>31.19</value></area>
+    <floor>4</floor>
+    <floors-total>9</floors-total>
+    <description>ЖК Островский. Дом комфорт-класса в центре.</description>
+    <image>https://ooossi.ru/assets-riw/images/apartments/2%20p.%20-%2042,%2046,%2050,%2054,%2058,%2062,%2066,%2070%20kv.%20-%2031,19%20kv.m.%20(studia).jpg</image>
+  </offer>
+
+  <offer internal-id="1201">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1201</url>
+    <price><value>6826800</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Псковская, 11</address></location>
+    <rooms>2</rooms>
+    <area><value>56.89</value></area>
+    <floor>1</floor>
+    <floors-total>10</floors-total>
+    <description>Квартира в ЖК Охра.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/6835563/4070385/pH3Sfs467nTRHXwxNzc3NjU4NDAwfDMzOWUy/planirovka_k2-56_89-1-56.89.png</image>
+  </offer>
+
+  <offer internal-id="1301">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1301</url>
+    <price><value>8655000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Республиканская, 71</address></location>
+    <rooms>2</rooms>
+    <area><value>62.5</value></area>
+    <floor>17</floor>
+    <floors-total>18</floors-total>
+    <description>ЖК Розмарин. Дом бизнес-класса.</description>
+    <image>https://sr.megapolisrm.ru/storage/app/resources/resize/0_0_0_0_crop/img_32cab26942a69b04c0d9f3c835f60113.webp</image>
+  </offer>
+
+  <offer internal-id="1401">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1401</url>
+    <price><value>5975800</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Садовая улица</address></location>
+    <rooms>1</rooms>
+    <area><value>42.47</value></area>
+    <floor>18</floor>
+    <floors-total>18</floors-total>
+    <description>ЖК Садовая 20. Новый проект комфорт-класса.</description>
+    <image>https://sr.megapolisrm.ru/storage/app/resources/resize/0_0_0_0_crop/img_ee740fa5082ca4cb9791e24f357df966.webp</image>
+  </offer>
+
+  <offer internal-id="1501">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1501</url>
+    <price><value>4561200</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Краснофлотская улица</address></location>
+    <rooms>1</rooms>
+    <area><value>38.01</value></area>
+    <floor>1</floor>
+    <floors-total>14</floors-total>
+    <description>ЖК Севастопольский. Комфорт по доступной цене.</description>
+  </offer>
+
+  <offer internal-id="1601">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1601</url>
+    <price><value>4962400</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Тани Бибиной</address></location>
+    <rooms>1</rooms>
+    <area><value>44.84</value></area>
+    <floor>9</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Семейный. Сдача: IV квартал 2026 года.</description>
+  </offer>
+
+  <offer internal-id="1701">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1701</url>
+    <price><value>3419660</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Котовского</address></location>
+    <rooms>1</rooms>
+    <area><value>28.03</value></area>
+    <floor>1</floor>
+    <floors-total>9</floors-total>
+    <description>ЖК Урбан. Сдача: I квартал 2028 года.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/7295796/4226678/1FNolvAqlcYvhXwxNzg1NTA2NDAwfGM0YmZk/planirovka_k1-28_03-1-3-28.03.png</image>
+  </offer>
+  <offer internal-id="1801">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1801</url>
+    <price><value>3500000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Филатова</address></location>
+    <rooms>1</rooms>
+    <area><value>31.85</value></area>
+    <floor>10</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Нова. Старт продаж открыт! Сдача: 4 квартал 2028 года.</description>
+    <image>http://storage.yandexcloud.net/ry-images/regions/Saransk/po-ul-shchorsa-4919849/26-10-26/pics/1%20(1).png</image>
+  </offer>
+
+  <offer internal-id="1901">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/1901</url>
+    <price><value>6300000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Северо-Восточное шоссе, 37</address></location>
+    <rooms>2</rooms>
+    <area><value>67.3</value></area>
+    <floor>9</floor>
+    <floors-total>9</floors-total>
+    <description>ЖК Квартал-2. Отличная квартира с предчистовой отделкой.</description>
+    <image>https://ooossi.ru/assets-riw/images/apartments/87кв.jpg</image>
+  </offer>
+
+  <offer internal-id="2001">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2001</url>
+    <price><value>4868750</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Фурманова, 35А</address></location>
+    <rooms>1</rooms>
+    <area><value>38.95</value></area>
+    <floor>2</floor>
+    <floors-total>9</floors-total>
+    <description>ЖК Мята. Сдача: II квартал 2028 года.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/7357318/4243943/gKohPL_V8HYa7nwxNzg2MDgyNDAwfGE2NTg3/planirovka_k1-38_95-1-38.95.png</image>
+  </offer>
+
+  <offer internal-id="2101">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2101</url>
+    <price><value>4561200</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Краснофлотская улица</address></location>
+    <rooms>1</rooms>
+    <area><value>38.01</value></area>
+    <floor>1</floor>
+    <floors-total>14</floors-total>
+    <description>ЖК Севастопольский. Комфорт по доступной цене.</description>
+  </offer>
+
+  <offer internal-id="2201">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2201</url>
+    <price><value>6103100</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Тани Бибиной</address></location>
+    <rooms>2</rooms>
+    <area><value>55.21</value></area>
+    <floor>8</floor>
+    <floors-total>10</floors-total>
+    <description>ЖК Семейный. Сдача: IV квартал 2026 года.</description>
+  </offer>
+
+  <offer internal-id="2301">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2301</url>
+    <price><value>3419660</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Котовского</address></location>
+    <rooms>1</rooms>
+    <area><value>28.03</value></area>
+    <floor>1</floor>
+    <floors-total>9</floors-total>
+    <description>ЖК Урбан. Сдача: I квартал 2028 года.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/7295796/4226678/1FNolvAqlcYvhXwxNzg1NTA2NDAwfGM0YmZk/planirovka_k1-28_03-1-3-28.03.png</image>
+  </offer>
+
+  <offer internal-id="2401">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2401</url>
+    <price><value>5975800</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Садовая улица</address></location>
+    <rooms>1</rooms>
+    <area><value>42.47</value></area>
+    <floor>18</floor>
+    <floors-total>18</floors-total>
+    <description>ЖК Садовая 20. Новый проект комфорт-класса.</description>
+    <image>https://sr.megapolisrm.ru/storage/app/resources/resize/0_0_0_0_crop/img_ee740fa5082ca4cb9791e24f357df966.webp</image>
+  </offer>
+
+  <offer internal-id="2501">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2501</url>
+    <price><value>4878900</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, жилой район Химмаш, ЖК Заречье</address></location>
+    <rooms>1</rooms>
+    <area><value>41.7</value></area>
+    <floor>5</floor>
+    <floors-total>16</floors-total>
+    <description>ЖК Заречье. Предчистовая отделка.</description>
+    <image>https://ooossi.ru/assets-riw/images/apartments/PL%201%20-%20kv%2013,21,29,37.jpg</image>
+  </offer>
+
+  <offer internal-id="2601">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2601</url>
+    <price><value>5805040</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, пр-кт Ленина, д. 28Б</address></location>
+    <rooms>1</rooms>
+    <area><value>38.96</value></area>
+    <floor>10</floor>
+    <floors-total>15</floors-total>
+    <description>Квартира в ЖК МОН. Семейная и IT-ипотека.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/6849130/4073451/_Ria7AKR9DrQknwxNzc3NjY1NjAwfGQzNGNl/planirovka_k1-38_96-3-38.96.png</image>
+  </offer>
+
+  <offer internal-id="2701">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2701</url>
+    <price><value>8655000</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Республиканская, 71</address></location>
+    <rooms>2</rooms>
+    <area><value>62.5</value></area>
+    <floor>17</floor>
+    <floors-total>18</floors-total>
+    <description>ЖК Розмарин. Дом бизнес-класса.</description>
+    <image>https://sr.megapolisrm.ru/storage/app/resources/resize/0_0_0_0_crop/img_32cab26942a69b04c0d9f3c835f60113.webp</image>
+  </offer>
+
+  <offer internal-id="2801">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2801</url>
+    <price><value>5196100</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, улица Гагарина, 36</address></location>
+    <rooms>1</rooms>
+    <area><value>39.97</value></area>
+    <floor>3</floor>
+    <floors-total>10</floors-total>
+    <description>Дом на Коммунистической. Срок сдачи: IV квартал 2026 года.</description>
+  </offer>
+
+  <offer internal-id="2901">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/2901</url>
+    <price><value>5529218</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, ул. Большевистская, 124А</address></location>
+    <rooms>1</rooms>
+    <area><value>43.95</value></area>
+    <floor>4</floor>
+    <floors-total>10</floors-total>
+    <description>Квартира в ЖК Арта. Семейная и IT-ипотека.</description>
+    <image>https://macro.sbercrm.com/estate/files/get/6767081/4051155/Jc16WdOi9UVH7nwxNzc3NjYyMDAwfDg3NWQ3/planirovka_1k-4395-2-43.95.png</image>
+  </offer>
+
+  <offer internal-id="3001">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://новостройки-саранск.рф/object/3001</url>
+    <price><value>3640900</value><currency>RUB</currency><unit>whole</unit></price>
+    <location><address>Россия, Республика Мордовия, Саранск, Рузаевская улица</address></location>
+    <rooms>1</rooms>
+    <area><value>31.66</value></area>
+    <floor>2</floor>
+    <floors-total>14</floors-total>
+    <description>ЖК Вейсэ. Кирпичный дом, предчистовая отделка.</description>
+    <image>https://ooossi.ru/assets-riw/images/apartments/Group%2067.jpg</image>
+  </offer>
+
+</realty-feed>
